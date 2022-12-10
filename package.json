@@ -11,7 +11,7 @@
     "echarts": "^4.7.0",
     "echarts-better": "^0.7.6",
     "ejs": "~2.6.1",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "http-errors": "~1.6.3",
     "moment-timezone": "^0.5.28",
     "morgan": "~1.9.1",
